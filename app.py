@@ -4,8 +4,6 @@ from flask import request
 from flask import redirect
 import datetime
 import pytz # timezone 
-import requests
-import os
 
 
 
