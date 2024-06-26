@@ -10,8 +10,6 @@ Flask-WTF==0.14.2
 buttercms-python==0.7
 
 Gunicorn
-Jinja2==2.9.4
-
 pep8==1.7.0
 python-dateutil==2.6.0
 
