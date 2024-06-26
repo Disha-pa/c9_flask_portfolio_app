@@ -1,4 +1,4 @@
-Flask
+Flask==2.0.3
 Flask-Babel==0.11.2
 Flask-Cors==3.0.2
 Flask-Login==0.4.0
@@ -10,7 +10,7 @@ Flask-WTF==0.14.2
 buttercms-python==0.7
 
 Gunicorn
-Jinja2
+Jinja2==3.1.1
 pep8==1.7.0
 python-dateutil==2.6.0
 
