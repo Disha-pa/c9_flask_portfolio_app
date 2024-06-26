@@ -1,16 +1,16 @@
-Flask==2.0.3
-Flask-Babel==0.11.2
-Flask-Cors==3.0.2
-Flask-Login==0.4.0
-Flask-Mail==0.9.1
-Flask-OpenID==1.3.1
-Flask-SQLAlchemy==2.2
-Flask-WhooshAlchemy==0.56
-Flask-WTF==0.14.2
+Flask
+Flask-Babel
+Flask-Cors
+Flask-Login
+Flask-Mail
+Flask-OpenID
+Flask-SQLAlchemy
+Flask-WhooshAlchemy
+Flask-WTF
 buttercms-python==0.7
 
 Gunicorn
-Jinja2==3.1.1
+Jinja2
 pep8==1.7.0
 python-dateutil==2.6.0
 
