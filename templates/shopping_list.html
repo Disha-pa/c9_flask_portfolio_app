@@ -30,6 +30,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <form name="generateList" id="shoppingListForm" action="/generate_table" method="POST">
+                    {% csrf_token %}
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label for="number">Enter Number of Rows</label>
